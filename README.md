@@ -1,6 +1,10 @@
 <h1 align="center">📱 Social Circle - React Native Project 🚀</h1>
 
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
+
+<p align="center">
+	<img src="image1.png" alt="Demo Image 1" width="350" />
+	<img src="image2.png" alt="Demo Image 2" width="350" />
+</p>
 
 This project was created and developed by me. It is a fully functional social media app called Social Circle, inspired by X (formerly Twitter), built from scratch using React Native, Express.js, MongoDB, Clerk, Cloudinary, and Arcjet.
 
